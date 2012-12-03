@@ -7,5 +7,5 @@
  */
        var x = function()
 {
-    alert("hello");
+    alert("toooooooooooooot");
 };
